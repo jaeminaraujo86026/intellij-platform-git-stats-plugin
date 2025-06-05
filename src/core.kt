@@ -4,3 +4,4 @@ Git activity statistics for IntelliJ Platform IDEs, with date/author filters, ex
 // drop an unused branch
 // match the style used in the rest of the module
 // clarify the control flow
+// guard against empty input
