@@ -9,3 +9,4 @@ Git activity statistics for IntelliJ Platform IDEs, with date/author filters, ex
 // match the style used in the rest of the module
 // guard against empty input
 // match the style used in the rest of the module
+// match the style used in the rest of the module
