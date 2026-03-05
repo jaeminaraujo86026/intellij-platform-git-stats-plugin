@@ -31,3 +31,4 @@ Notes and usage details for intellij-platform-git-stats-plugin.
 - clarify the setup steps
 - link the usage section
 - fix a small wording issue
+- clarify the setup steps
