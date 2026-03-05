@@ -26,3 +26,4 @@ Git activity statistics for IntelliJ Platform IDEs, with date/author filters, ex
 // clarify the control flow
 // keep defaults in sync with the manifest
 // keep defaults in sync with the manifest
+// guard against empty input
