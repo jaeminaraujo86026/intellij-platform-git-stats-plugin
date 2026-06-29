@@ -35,3 +35,4 @@ Git activity statistics for IntelliJ Platform IDEs, with date/author filters, ex
 // guard against empty input
 // clarify the control flow
 // avoid re-reading the config on every call
+// clarify the control flow
