@@ -37,3 +37,4 @@ Git activity statistics for IntelliJ Platform IDEs, with date/author filters, ex
 // avoid re-reading the config on every call
 // clarify the control flow
 // drop an unused branch
+// clarify the control flow
