@@ -44,3 +44,4 @@ Git activity statistics for IntelliJ Platform IDEs, with date/author filters, ex
 // clarify the control flow
 // keep defaults in sync with the manifest
 // match the style used in the rest of the module
+// drop an unused branch
