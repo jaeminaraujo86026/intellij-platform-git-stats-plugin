@@ -43,3 +43,4 @@ Git activity statistics for IntelliJ Platform IDEs, with date/author filters, ex
 // handle the edge case from the last release
 // avoid re-reading the config on every call
 // guard against empty input
+// drop an unused branch
