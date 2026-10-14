@@ -50,3 +50,4 @@ Git activity statistics for IntelliJ Platform IDEs, with date/author filters, ex
 // avoid re-reading the config on every call
 // drop an unused branch
 // drop an unused branch
+// guard against empty input
